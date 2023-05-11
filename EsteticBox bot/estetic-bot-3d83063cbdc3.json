@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "estetic-bot",
+  "private_key_id": "3d83063cbdc3cb6dce159d701ea68ffdc1ee31b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbpTvrXU/nHYjV\nczDtBqaI008HCv8xpwrulUA44Hl+0SntFAONcBeTc7IbPfOeue04CQht70S/V5lB\n5I3YfhXcR/sF6P9YcC130ixqGjWy9HiokDCJzarbt1puGkTIA61iLqXJZHvY1/4u\nErBV3+FEpYD0XfvCuZFsuqjKZYlWmm2+5xeH7FZ+rjn30E1FQzWFKbE3wbfw/0eY\nUqsdmzXOKOWaCp88O0++UgKctoZWk5c9mMEsW3X5wDmXuc20aagmhXQLBPighW+w\nxYVJSG/lMQmouUdmp49Mgx2qiQWnfUM9xlYce2pJk72lDysiYXopYInkMwey7cZa\nV6pfbxT9AgMBAAECggEAAXJCoUhHss0adWlRnhI+v+y+wkD+6BY2SstGQoELf/sv\nmY1jDxBol60ujYRA3Eu8AZZL5sGfcOu+d9dI3iclyts8YOyuWsMIGSHx2baOozAU\nYvScDtvDZ7FHfNhvpTArj0sBrWJqqDQxn3n6+4FOFZY4IY0yBrg0ur7tTJwu74gS\nIAMPogxMz2cu31tmtazHuiofDEnzNftJ7PtolGg4F0bg42a6iKXrg+YZMIE5XsdR\nttsG5r4ArrUMs8j99xghPTdrUkJ4zkzISALiD78rKyDRtOwYg9/IgTU4GxE/O6cU\n7ofCXmr1iJbJ1fK2D+PA4uvEnS0cJU8BkCOLo+gxfQKBgQDSNyFiUyK2zRwNugO3\n2/5ZAPpYNrxOQkPFTLkb7pQmGAYa6pKAniNaPjvBk3pC7aoHEFibWONSwiPF5L3D\nPXFfLmy4YrKrVmEmpxqXa+libh8eJ1XyvR5vDy8msFeGIf2feTGGYEkxwGZmwDTP\nEpoXoNWYlc3nFVyaR6TSs1TnvwKBgQC9i3oxKrohSio6Tn+hJjnDUWKK2sTjMhhy\noMrtAHO5v9EsF3Wf7jEcq4vrB2FOwijUn0b5yQAn9pFZtMtiSLCu+Kkceb+Re+rf\nMYhtz2cTObPUEuqA0BVeCVG7KmL5d+oqclIENLO2ae9eJp6p/wq8oKYKjSUY33/9\nxboU2tUSQwKBgQDMwYxP9IBcpB6ONECI5syxLuWp5O64H41ZcWjgjxtYm4/eydsX\nUnFG5lVYMOkmpc42gTJ9ZjBOHPGxQSOhN4jlWBfn5aL4hvOsLZoWIbM6/95phZEP\nFiy9qoGX4q3t5c/fdLHLnJ/OyQQ1U0Rc6laTa0KCFHBxhHolgGFIJgsuiwKBgE6D\nlxMEuuMNQJ60Y4PSPL0eWi5gXowp9RyOZGB1/nnj7fZQpWWhGfDhUm0BupoQLS+d\n5p2TWCA1r5G0JUdKCv3/fLWR7PuLlAfuEbBC6FR7Y3UmfMLs7tzsCVH5RdRGitYY\nUsbxObwG96NNZg3O2pi2BvF58/LwqajqHaGD4BzXAoGBAIScI53UpWOp6DhRWJQI\nnI9qTY/DBxZWOtT94gLMf2Ge680nQocKulyp7tk5cEKr5f/seHZFp++3IEvQKy1z\nY5DbfBKDmXlpiuFEqt5E9ooM4X6/cnjb5W4T897tpSg4i5WMy88YkIVzEroxRx1r\nBO+dWfbzYtwS/VjliPyNFnTn\n-----END PRIVATE KEY-----\n",
+  "client_email": "estetic-box-bot@estetic-bot.iam.gserviceaccount.com",
+  "client_id": "113388007154245105065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/estetic-box-bot%40estetic-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
